@@ -1,3 +1,5 @@
+Updated project version
+
 # Hash Tool 🔐
 
 A custom Python CLI tool for hashing and encoding.
@@ -10,3 +12,5 @@ A custom Python CLI tool for hashing and encoding.
 ## Usage
 ```bash
 python3 main.py
+
+
