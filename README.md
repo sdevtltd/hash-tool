@@ -1,11 +1,4 @@
 # 🔐 Hash Tool
-
-██╗  ██╗ █████╗ ███████╗██╗  ██╗    ████████╗ ██████╗  ██████╗ ██╗
-██║  ██║██╔══██╗██╔════╝██║  ██║    ╚══██╔══╝██╔═══██╗██╔═══██╗██║
-███████║███████║███████╗███████║       ██║   ██║   ██║██║   ██║██║
-██╔══██║██╔══██║╚════██║██╔══██║       ██║   ██║   ██║██║   ██║██║
-██║  ██║██║  ██║███████║██║  ██║       ██║   ╚██████╔╝╚██████╔╝███████╗ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-
 A custom Python CLI tool for hashing and encoding/decoding data.
 
 ---
@@ -17,6 +10,16 @@ A custom Python CLI tool for hashing and encoding/decoding data.
 
 ---
 
+## 👨‍💻 Author
+
+**SDev**
+- GitHub: https://github.com/sdevtltd
+
+## 📌 License
+
+This project is licensed for educational and personal use only.
+
+
 ## 🚀 Installation & Usage
 
 ### 🔹 Quick Start
@@ -24,16 +27,4 @@ A custom Python CLI tool for hashing and encoding/decoding data.
 ```bash
 git clone https://github.com/sdevtltd/hash-tool.git
 cd hash-tool
-pip install -r requirements.txt
 python3 main.py
-
-## 👨‍💻 Author
-
-**SDev**
-- GitHub: https://github.com/sdevtltd
-
----
-
-## 📌 License
-
-This project is for educational and personal use only.
